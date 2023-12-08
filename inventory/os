@@ -60,6 +60,7 @@ os.ubuntu.lts
 os.u1604
 os.u1804
 os.u2004
+os.u2204
 
 [os.u1604] # {{{3
 # }}}3

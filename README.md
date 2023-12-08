@@ -81,7 +81,7 @@ ssh-copy-id -i root@<host-ip>
 
 - 3.克隆本项目
 ```
-git clone https://github.com/Leif160519/ansible-linux
+git clone https://github.com/odoochain/ansible-linux
 ```
 
 - 4.根据实际情况修改inventory下的主机hostname和IP地址
